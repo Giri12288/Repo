@@ -1,2 +1,5 @@
-/.gitignore.txt
-/.gitignore
+*.jar
+*.war
+*.ear
+*.exe
+.project
